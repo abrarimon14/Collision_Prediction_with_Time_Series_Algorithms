@@ -1,0 +1,2 @@
+# Collision_Prediction_with_Time_Series_Algorithms
+This repo contains only my contributions to the repo, "CSCI-233-group-project". The main group project includes more pages, which focus on exploratory analysis of data from NYC Open Data that have to do with traffic collisions. My contribution was creating models that predict future numbers of collisions in different boroughs of NYC. Then, I created the page of the website that relates to my models.
